@@ -57,23 +57,29 @@ const Header = () => {
           </div>
         </div>
       </div> */}
-      <div className="d-flex justify-content-between " style={{ backgroundColor: "#7EC029",height:"60px" }}>
+      <div
+        className="d-flex justify-content-between "
+        style={{ backgroundColor: "#7EC029", height: "60px" }}
+      >
         {/* <div className="" style={{objectFit:"contain"}}>
           <img src="/logo_zenith.png" alt="" />
         </div> */}
-        <img src="/logo_zenith.png" alt=""  style={{objectFit:"cover" }}/>
-       
+        <img src="/Logo_Zenith.jpg" alt="" style={{ objectFit: "cover" }} />
+
         {/* <div className="" >
         
         </div> */}
-        <div className="d-flex justify-content-between align-items-center" style={{ backgroundColor: "#7EC029",width:"400px" }}>
-            <div>
+        <div
+          className="d-flex justify-content-between align-items-center"
+          style={{ backgroundColor: "#7EC029", width: "400px" }}
+        >
+          <div>
             <button type="button" class="btn btn-danger ">
             Registration
           </button>
             </div>
-              <div>
-              <a
+            <div>
+            <a
               href="https://www.facebook.com/"
               target="_blank"
               className="text-decoration-none me-3"
@@ -83,22 +89,20 @@ const Header = () => {
                 style={{ color: "#165216" }}
               />
             </a>
-              </div>
-              <div>
-
+            </div>
+          <div>
             <a
-              href="https://twitter.com/"
+              href="https://www.youtube.com/"
               target="_blank"
               className="text-decoration-none me-3"
             >
               <i
-                className="fab fa-twitter fa-2x"
+                className="fab fa-youtube fa-2x"
                 style={{ color: "#165216" }}
               />
             </a>
-              </div>
-              <div>
-
+          </div>
+          <div style={{marginRight:"1rem"}}>
             <a
               href="https://www.instagram.com/"
               target="_blank"
@@ -109,20 +113,8 @@ const Header = () => {
                 style={{ color: "#165216" }}
               />
             </a>
-              </div>
-              <div>
-
-            <a
-              href="https://wa.me/1234567890"
-              target="_blank"
-              className="text-decoration-none me-3"
-            >
-              <i
-                className="fab fa-whatsapp fa-2x"
-                style={{ color: "#165216" }}
-              />
-            </a>
-              </div>
+          </div>
+         
         </div>
       </div>
     </>
