@@ -34,7 +34,15 @@ const Banner = () => {
               <div className="card-body">
                 <p className="card-text">
                   <i>
-                    ""
+                    "Wishing you a very happy new year Sir . To be honest , Sir
+                    I have studied at multiple places but the enthusiasm and
+                    ease with which you teach Quants can’t be expressed in words
+                    . Now Quants and especially algebra is no longer a horror to
+                    me. I feel surprised to say that I am more confident in
+                    quants than in any other subject . You have been a guiding
+                    light throughout the preparation journey . The faith you
+                    have in us makes us more confident . Thank you for your
+                    encouragement ."
                   </i>
                 </p>
                 <h5 className="card-title d-flex justify-content-end">
@@ -70,7 +78,9 @@ const Banner = () => {
                     learn from you."
                   </i>
                 </p>
-                <h5 className="card-title d-flex justify-content-end">~ Ira Parmar</h5>
+                <h5 className="card-title d-flex justify-content-end">
+                  ~ Ira Parmar
+                </h5>
               </div>
             </div>
           </div>
@@ -126,16 +136,7 @@ const Banner = () => {
               <div className="card-body">
                 <p className="card-text">
                   <i>
-                    "When I joined zenith, I was extremely dreadful of the
-                    journey ahead of me, and your unwavering support and
-                    guidance helped me prepare for the best and the worst! Your
-                    teaching style and commitment to student success were
-                    instrumental in my success in competitive exams. The depth
-                    of knowledge I acquired and the confidence instilled in me
-                    by you played a pivotal role in achieving the results I did!
-                    It wasn’t just an excellent academic experience but also a
-                    transformative learning experience. Thank you for being a
-                    beacon of inspiration in my educational journey."
+                    ""
                   </i>
                 </p>
                 <h5 className="card-title d-flex justify-content-end">

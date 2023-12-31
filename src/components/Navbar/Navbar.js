@@ -4,7 +4,6 @@ const Navbar = () => {
   return (
     <>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <a className="navbar-brand" href="#"></a>
         <button
           className="navbar-toggler"
           type="button"
@@ -19,7 +18,7 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav mr-auto">
             <li className="nav-item active">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="https://www.zenithacademy.com/">
                 Home <span className="sr-only">(current)</span>
               </a>
             </li>
@@ -58,7 +57,7 @@ const Navbar = () => {
             <li className="nav-item dropdown">
               <a
                 className="nav-link dropdown-toggle"
-                href="#"
+                href="https://www.zenithacademy.com/content.php?content_id=czoyOiI0MiI7"
                 id="navbarDropdownMenuLink"
                 data-toggle="dropdown"
                 aria-haspopup="true"
