@@ -24,7 +24,7 @@ const Banner = () => {
                   </i>
                 </p>
                 <h5 className="card-title d-flex justify-content-end">
-                  ~ Vrindaa M
+                  ~ Vrindaa Mansharamani
                 </h5>
               </div>
             </div>
@@ -123,7 +123,7 @@ const Banner = () => {
             <div className="card">
               <div className="card-body">
                 <p className="card-text">
-                  <i>""</i>
+                  <i>"Sir you are one of the most hardworking person I have met who cares about everyone very much. The biggest life lesson I have learned while being around you is how to stay disciplined in life and how to deal with things.Thank you so so much for your time and  knowledge, and thank you for your patience. You taught me like your own child and I appreciate everything that you have done for me."</i>
                 </p>
                 <h5 className="card-title d-flex justify-content-end">
                   ~ Isha Gupta
@@ -136,7 +136,7 @@ const Banner = () => {
               <div className="card-body">
                 <p className="card-text">
                   <i>
-                    ""
+                    "Happy New Year Sir!!, I have been here in Zenith for 6 months now and I definitely am going to remember this time till my death bed. You know the best part about being here is the human touch you have in everything. I have a confession to make after I failed in my exam I thought now things will change, now you won’t believe in me and … but you made me feel like you deserve better to be frank in those moments I was craving for those words. It’s just there are very few who treats me the way you do. I know I am very hard to be around & it’s annoying for many but you have taught me with such patience and love I can’t express in words. I promise I will prove you one day that you were not wrong and will make you proud one day. For me the best lessons academically was: “Partition Marker Method” I still fee you should upload it somewhere it will a legacy. Apart from academics the lessons which I will use in my life is of FOCUS your story of “Composition of body with water” on a random walk is something I am going to cherish my whole life. Thank you so much for being the way you are I love you."
                   </i>
                 </p>
                 <h5 className="card-title d-flex justify-content-end">
